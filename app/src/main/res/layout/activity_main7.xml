@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/project6"
+    tools:context="com.example.dell.bloodbank.Main7Activity">
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CHANGE ADDRESS"
+        android:onClick="DCA"
+        android:background="#ffffff"
+        android:layout_marginTop="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CHANGE PHONE NUMBER"
+        android:onClick="DCP"
+        android:background="#ffffff"
+        android:layout_marginTop="96dp"
+        android:layout_below="@+id/button10"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

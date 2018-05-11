@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+    <string-array name="blood_types">
+
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>H+</item>
+    </string-array>
+    <string-array name="tn_districts">
+
+        <item>Ariyalur</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Cuddalore</item>
+        <item>Dharmapuri</item>
+        <item>Dindigul</item>
+        <item>Erode</item>
+        <item>Kanchipuram</item>
+        <item>Karur</item>
+        <item>Krishnagiri</item>
+        <item>Madurai</item>
+        <item>Nagapattinam</item>
+        <item>Kanyakumari</item>
+        <item>Namakkal</item>
+        <item>Perambalur</item>
+        <item>Pudukottai</item>
+        <item>Ramanathapuram</item>
+        <item>Salem</item>
+        <item>Sivagangai</item>
+        <item>Thanjavur</item>
+        <item>Theni</item>
+        <item>Thiruvallur</item>
+        <item>Thiruvarur</item>
+        <item>Tuticorn</item>
+        <item>Trichy</item>
+        <item>Thirunelveli</item>
+        <item>Tiruppur</item>
+        <item>Thiruvannamalai</item>
+        <item>The Nilgiris</item>
+        <item>Vellore</item>
+        <item>Vilupuram</item>
+        <item>Virudhunagar</item>
+    </string-array>
+</resources>
